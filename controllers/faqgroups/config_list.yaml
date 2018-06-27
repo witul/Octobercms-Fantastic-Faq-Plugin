@@ -3,7 +3,7 @@
 # ===================================
 
 # Model List Column configuration
-list: @/plugins/laminsanneh/fantasticfaq/models/faqgroup/columns.yaml
+list: $/laminsanneh/fantasticfaq/models/faqgroup/columns.yaml
 
 # Model Class name
 modelClass: LaminSanneh\FantasticFaq\Models\FaqGroup
