@@ -1,0 +1,18 @@
+{
+    "name": "laminsanneh/fantastic-faq",
+    "type": "october-plugin",
+    "description": "Fantastic Faq An faq plugin for OctoberCMS to help easily embed a list of frequently asked questions on any page of your website",
+    "homepage": "https://octobercms.com/plugin/laminsanneh-fantasticfaq",
+    "keywords": ["october", "octobercms", "faq"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LaminSanneh"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev"
+}
