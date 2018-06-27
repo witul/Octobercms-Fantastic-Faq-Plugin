@@ -6,7 +6,7 @@
 name: FaqGroup
 
 # Model Form Field configuration
-form: @/plugins/laminsanneh/fantasticfaq/models/faqgroup/fields.yaml
+form: $/laminsanneh/fantasticfaq/models/faqgroup/fields.yaml
 
 # Model Class name
 modelClass: LaminSanneh\FantasticFaq\Models\FaqGroup
