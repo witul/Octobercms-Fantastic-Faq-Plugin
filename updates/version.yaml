@@ -21,3 +21,6 @@
   - Changed answer editor from textarea to richeditor
 1.1.1:
   - Added missing down method
+1.1.2:
+  - Convert title field to text - increase length of question
+  - extend_question_length.php
